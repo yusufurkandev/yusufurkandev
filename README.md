@@ -30,12 +30,6 @@
   <a href="https://opencv.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=opencv" height="40"/>
   </a>
-  <a href="https://developers.google.com/mediapipe" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="40"/>
-  </a>
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
   </a>
